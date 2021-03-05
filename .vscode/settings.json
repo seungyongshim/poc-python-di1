@@ -14,7 +14,7 @@
     "python.languageServer": "Pylance",
     "python.analysis.autoImportCompletions": true,
     "python.analysis.completeFunctionParens": true,
-    "python.analysis.typeCheckingMode": "strict",
+    "python.analysis.typeCheckingMode": "basic",
     "python.analysis.diagnosticMode": "workspace",
     "python.envFile": "${workspaceFolder}/.envscode",
     "terminal.integrated.env.windows": {
@@ -29,5 +29,8 @@
                 "cmd": " ${env:PYTHONPATH}='./src'; ./venv/Scripts/Activate.ps1; coverage run --source src -m pytest ; coverage xml -o cov.xml; coverage report -m"
             }
         ]
-    }
+    },
+    "cSpell.words": [
+        "getenv"
+    ]
 }

@@ -13,3 +13,6 @@ python3 -m venv venv
 pip install -r requirements-dev.txt
 pip install -r requirements.txt
 ```
+
+## 3. 구현
+- https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html#what-is-dependency-injection
