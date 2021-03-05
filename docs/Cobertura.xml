@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.203125" branch-rate="0" lines-covered="13" lines-valid="64" branches-covered="0" branches-valid="6" complexity="NaN" version="0" timestamp="1614929301">
+  <sources>
+    <source>/home/runner/work/poc-python-di1/poc-python-di1</source>
+  </sources>
+  <packages>
+    <package name="src" line-rate="0" branch-rate="0" complexity="NaN">
+      <classes>
+        <class name="__init__.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/__init__.py" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines />
+        </class>
+        <class name="asis.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/asis.py" line-rate="0" branch-rate="0" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="1" hits="0" branch="false" />
+            <line number="4" hits="0" branch="false" />
+            <line number="5" hits="0" branch="false" />
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="20" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="21" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="tobe1.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/tobe1.py" line-rate="0" branch-rate="0" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="1" hits="0" branch="false" />
+            <line number="4" hits="0" branch="false" />
+            <line number="5" hits="0" branch="false" />
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="20" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="21" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="tobe2.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/tobe2.py" line-rate="0" branch-rate="0" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="1" hits="0" branch="false" />
+            <line number="2" hits="0" branch="false" />
+            <line number="3" hits="0" branch="false" />
+            <line number="4" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="32" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="src.sample" line-rate="1" branch-rate="1" complexity="NaN">
+      <classes>
+        <class name="__init__.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/sample/__init__.py" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines />
+        </class>
+        <class name="calculator_helper.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/sample/calculator_helper.py" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="1" hits="1" branch="false" />
+            <line number="2" hits="1" branch="false" />
+            <line number="5" hits="1" branch="false" />
+            <line number="6" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="calculator.py" filename="/home/runner/work/poc-python-di1/poc-python-di1/src/sample/calculator.py" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines>
+            <line number="1" hits="1" branch="false" />
+            <line number="4" hits="1" branch="false" />
+            <line number="5" hits="1" branch="false" />
+            <line number="6" hits="1" branch="false" />
+            <line number="7" hits="1" branch="false" />
+            <line number="9" hits="1" branch="false" />
+            <line number="10" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
